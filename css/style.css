@@ -1,0 +1,22 @@
+body {
+    background-color: #420716;
+}
+
+h1 {
+    font-family: 'Anton', sans-serif;
+    color: white;
+    letter-spacing: 20px;
+    font-size: 8em;
+    text-align: center;
+}
+
+h2, ul {
+    font-family: 'Lato', sans-serif;
+    color: white;
+    text-align: center;
+}
+
+li {
+    list-style-type: none;
+    font-size: 3em;
+}
