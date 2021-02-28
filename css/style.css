@@ -1,22 +1,35 @@
 body {
-    background-color: #420716;
+    background-color: #272822;
 }
 
 h1 {
-    font-family: 'Anton', sans-serif;
-    color: white;
-    letter-spacing: 20px;
+    font-family: 'DotGothic16', sans-serif;
+    color: #AE81FF;
     font-size: 8em;
     text-align: center;
 }
 
-h2, ul {
-    font-family: 'Lato', sans-serif;
-    color: white;
+h2, td {
+    font-family: 'Open Sans', sans-serif;
+    color: #A6E22E;
+}
+
+h2 {
     text-align: center;
 }
 
-li {
-    list-style-type: none;
+table {
+    margin: auto auto;
+}
+
+td {
     font-size: 3em;
+}
+
+td.student-name {
+    text-align: right;
+}
+
+td.student-stars {
+    text-align: left;
 }
